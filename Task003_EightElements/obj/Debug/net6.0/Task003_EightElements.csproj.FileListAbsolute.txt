@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task003_EightElements\obj\Debug\net6.0\Task003_EightElements.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task003_EightElements\obj\Debug\net6.0\Task003_EightElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task003_EightElements\obj\Debug\net6.0\Task003_EightElements.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task003_EightElements\obj\Debug\net6.0\Task003_EightElements.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task003_EightElements\obj\Debug\net6.0\Task003_EightElements.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task003_EightElements\bin\Debug\net6.0\Task003_EightElements.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task003_EightElements\bin\Debug\net6.0\Task003_EightElements.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task003_EightElements\bin\Debug\net6.0\Task003_EightElements.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task003_EightElements\bin\Debug\net6.0\Task003_EightElements.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task003_EightElements\bin\Debug\net6.0\Task003_EightElements.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task003_EightElements\obj\Debug\net6.0\Task003_EightElements.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task003_EightElements\obj\Debug\net6.0\refint\Task003_EightElements.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task003_EightElements\obj\Debug\net6.0\Task003_EightElements.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task003_EightElements\obj\Debug\net6.0\Task003_EightElements.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task003_EightElements\obj\Debug\net6.0\ref\Task003_EightElements.dll

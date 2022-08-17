@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task002_DigitsSum\obj\Debug\net6.0\Task002_DigitsSum.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task002_DigitsSum\obj\Debug\net6.0\Task002_DigitsSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task002_DigitsSum\obj\Debug\net6.0\Task002_DigitsSum.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task002_DigitsSum\obj\Debug\net6.0\Task002_DigitsSum.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task002_DigitsSum\obj\Debug\net6.0\Task002_DigitsSum.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task002_DigitsSum\bin\Debug\net6.0\Task002_DigitsSum.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task002_DigitsSum\bin\Debug\net6.0\Task002_DigitsSum.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task002_DigitsSum\bin\Debug\net6.0\Task002_DigitsSum.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task002_DigitsSum\bin\Debug\net6.0\Task002_DigitsSum.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task002_DigitsSum\bin\Debug\net6.0\Task002_DigitsSum.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task002_DigitsSum\obj\Debug\net6.0\Task002_DigitsSum.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task002_DigitsSum\obj\Debug\net6.0\refint\Task002_DigitsSum.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task002_DigitsSum\obj\Debug\net6.0\Task002_DigitsSum.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task002_DigitsSum\obj\Debug\net6.0\Task002_DigitsSum.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task002_DigitsSum\obj\Debug\net6.0\ref\Task002_DigitsSum.dll

@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task001_PowerOf\bin\Debug\net6.0\Task001_PowerOf.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task001_PowerOf\bin\Debug\net6.0\Task001_PowerOf.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task001_PowerOf\bin\Debug\net6.0\Task001_PowerOf.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task001_PowerOf\bin\Debug\net6.0\Task001_PowerOf.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task001_PowerOf\bin\Debug\net6.0\Task001_PowerOf.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task001_PowerOf\obj\Debug\net6.0\Task001_PowerOf.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task001_PowerOf\obj\Debug\net6.0\Task001_PowerOf.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task001_PowerOf\obj\Debug\net6.0\Task001_PowerOf.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task001_PowerOf\obj\Debug\net6.0\Task001_PowerOf.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task001_PowerOf\obj\Debug\net6.0\Task001_PowerOf.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task001_PowerOf\obj\Debug\net6.0\Task001_PowerOf.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task001_PowerOf\obj\Debug\net6.0\refint\Task001_PowerOf.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task001_PowerOf\obj\Debug\net6.0\Task001_PowerOf.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task001_PowerOf\obj\Debug\net6.0\Task001_PowerOf.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.3 - Функции продолжение\Seminar 4.3 hw\Task001_PowerOf\obj\Debug\net6.0\ref\Task001_PowerOf.dll

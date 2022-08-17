@@ -27,6 +27,7 @@ int PowerOf(int _base_, int pow)
 
 int b=Prompt("enter your number1: ");
 int p=Prompt("enter your number2: ");
+while(p<0) { p=Prompt("enter natural number2: ");}
 
 System.Console.WriteLine($" power number1 of number2 is: {PowerOf(b,p)}");
 
